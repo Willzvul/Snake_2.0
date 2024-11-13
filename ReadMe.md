@@ -2,7 +2,7 @@
 
 Advanced Snake Game (Remake of original Snake).
 
-![Snake_2.0](https://github.com/Willzvul/Snake_2.0/blob/main/Snake%202.0.png)
+![Snake_2.0](https://github.com/Willzvul/Snake_2.0/blob/main/img/3.png)
 
 
 ## Features
