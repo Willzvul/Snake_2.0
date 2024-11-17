@@ -183,7 +183,7 @@ static void snake_game_render_callback(Canvas* const canvas, void* ctx) {
             buffer,
             sizeof(buffer),
             "%-5.1f%% (%.2ld:%.2ld:%.2ld)",
-            (double)((snake_state->len - 7U) / 4.58),
+            (double)((snake_state->len - 7U) / 4.57),
             snake_state->timer_stopped_seconds / 60 / 60,
             snake_state->timer_stopped_seconds / 60 % 60,
             snake_state->timer_stopped_seconds % 60);
